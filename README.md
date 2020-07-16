@@ -2,7 +2,9 @@
 
 Please feel free to contact me with any questions about my code and search for my first development job. 
 
-[Here](https://tobydawson.netlify.app/) is my webiste to give you a taste of the sort of work I can produce 
+[Here](https://tobydawson.netlify.app/) is my website to give you a taste of the sort of work I can produce 
+
+Currently I am working on trying to expand my portfolio adding more real life applications largely using React but open to learn any language.
 
 
 <!--
