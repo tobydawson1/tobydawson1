@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-Please feel free to contact me with any questions about my code and search for my first development job.
+Please feel free to contact me with any questions about my code and search for my first development job. 
 
-Here is my webiste to give you a taste of the sort of work I can produce 
-
-[Website](https://tobydawson.netlify.app/)
+[Here](https://tobydawson.netlify.app/) is my webiste to give you a taste of the sort of work I can produce 
 
 
 <!--
