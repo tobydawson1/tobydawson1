@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Please feel free to contact me with any questions about my code and search for my first development job.
+
+Here is my webiste to give you a taste of the sort of work I can produce 
+
+[Website](https://tobydawson.netlify.app/)
+
+
 <!--
 **tobydawson1/tobydawson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
