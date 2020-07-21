@@ -4,7 +4,7 @@ Please feel free to contact me with any questions about my code and search for m
 
 [Here](https://tobydawson.netlify.app/) is my website to give you a taste of the sort of work I can produce 
 
-Currently I am working on trying to expand my portfolio adding more real life applications largely using React but open to learn any language.
+I am working on trying to expand my portfolio and add more real life applications, largely using React but open to learn any language.
 
 - 🔭 I’m currently working on ... a youtube clone
 - 🌱 I’m currently learning ... React 
