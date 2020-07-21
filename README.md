@@ -7,9 +7,6 @@ Please feel free to contact me with any questions about my code and search for m
 Currently I am working on trying to expand my portfolio adding more real life applications largely using React but open to learn any language.
 
 
-<!--
-**tobydawson1/tobydawson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... a youtube clone
