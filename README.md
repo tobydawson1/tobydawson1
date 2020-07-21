@@ -7,9 +7,9 @@ Please feel free to contact me with any questions about my code and search for m
 Currently I am working on trying to expand my portfolio adding more real life applications largely using React but open to learn any language.
 
 - 🔭 I’m currently working on ... a youtube clone
-- 🌱 I’m currently learning ... React
-- 🤔 I’m looking for help with ... Jobhunt
+- 🌱 I’m currently learning ... React 
+- 🤔 I’m looking for help with ... the Jobhunt
 - 💬 Ask me about ... my code! 
 - 📫 How to reach me: ... [Here](https://tobydawson.netlify.app/)
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... Rubix Cube Master
 -->
