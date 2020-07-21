@@ -6,9 +6,6 @@ Please feel free to contact me with any questions about my code and search for m
 
 Currently I am working on trying to expand my portfolio adding more real life applications largely using React but open to learn any language.
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... a youtube clone
 - 🌱 I’m currently learning ... React
 - 🤔 I’m looking for help with ... Jobhunt
