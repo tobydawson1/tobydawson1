@@ -1,4 +1,4 @@
-![image](https://github.com/tobydawson1/tobydawson1/assets/39052325/cf051344-8c33-438a-85bc-66a07c5301d6)### Hi there 👋
+### Hi there 👋
 
 A passionate and experienced Full Stack Software Engineer with a strong focus on front-end de-velopment. Proven ability to build and maintain high-traffic web applications, ensuring optimal performance and user satisfaction. Seeking to leverage my skills and expertise to contribute to a dynamic team.
  
